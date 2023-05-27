@@ -1,18 +1,18 @@
 // Sample resource data
 const resources = [
   {
-    name: "Art Supply Store 1",
-    location: "City A",
-    type: "Art Supply Store",
-    description: "A store that offers a wide range of art supplies.",
-    website: "https://www.example.com/artstore1"
+    name: "Lospec Palette List",
+    location: "Online",
+    type: "Palette List",
+    description: "A collection of color palettes for pixel art and game development.",
+    website: "https://lospec.com/palette-list"
   },
   {
-    name: "Workshop 1",
-    location: "City B",
-    type: "Workshop",
-    description: "A workshop on abstract painting techniques.",
-    website: "https://www.example.com/workshop1"
+    name: "Lospec",
+    location: "Online",
+    type: "Website",
+    description: "A platform for pixel art, game graphics, and demoscene content.",
+    website: "https://lospec.com/"
   },
   // Add more resource objects as needed
 ];
